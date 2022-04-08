@@ -8,3 +8,5 @@ Restaurant-inspections-of-City-of-Las-Vegas-Open-Data-Portal
 3) Apply your model to the test set – Predict NEXT_INSPECTION_GRADE_C_OR_BELOW for the data in the TEST_SET_2021.csv file.
 
 4) Provide recommendations for how you would enhance the data set to improve the predictive power of the model – Assume “the sky’s the limit” and write a one-page recommendation on how the data set could be improved. Provide at least 8-10 additional attributes and prepare to defend your choices. (It may be helpful to perform additional research online as time allows).
+
+dataset: https://opendataportal-lasvegas.opendata.arcgis.com/datasets/restaurant-inspections-open-data/explore
